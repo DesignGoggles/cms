@@ -20,3 +20,13 @@
   * TWIG (More overhead and increases learning curve but increases security.)
   * SASS (This should be entirely optional.)
   * Bootstrap (Aligns with #5 but increases learning curve.)
+
+4. Security
+  * User login
+    * Flood protection
+    * Password policies
+
+
+### Thoughts
+* Put entire configuration in a single YAMLfile?
+* User uploaded files should be outside the web directory for security.
