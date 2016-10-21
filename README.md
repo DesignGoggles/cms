@@ -6,6 +6,7 @@
 5. Mobile friendly
 6. Shallow learning curve
 7. Ability to undo mistakes
+8. Ability to demo entire pages before publishing
 
 ## TASKS
 1. Routing layer
