@@ -1,0 +1,2 @@
+# Ignore the sqlite data files
+core/data/*
